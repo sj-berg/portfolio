@@ -1,9 +1,9 @@
 
-<img src="assets/Paver/6 Essential Steps to a Symptom-Free Period Every Month (2).png">
-<img src="assets/Paver/Custom Handouts for Fertility with PCOS.png">
-<img src="assets/Paver/Instagram Posts I Designed.png">
-<img src="assets/Paver/Labs to Request Handout.png">
-<img src="assets/Paver/Offer Image.png">
-<img src="assets/Paver/Untitled.txt">
-<img src="assets/Paver/Website Screenshot.png">
-<img src="assets/Paver/readme.md">
+<img src="6 Essential Steps to a Symptom-Free Period Every Month (2).png">
+<img src="Custom Handouts for Fertility with PCOS.png">
+<img src="Instagram Posts I Designed.png">
+<img src="Labs to Request Handout.png">
+<img src="Offer Image.png">
+<img src="Untitled.txt">
+<img src="Website Screenshot.png">
+<img src="readme.md">

@@ -7,6 +7,6 @@ for dir in assets/*; do
     touch "$dir"/hello
     rm $dir/hello
     echo "" > $dir/readme.md
-    for f in $dir/*
-        echo "<img src=\""$f\"\> >> $dir/readme.md
+    for file in $dir/*
+        echo "<img src=\"""${file##*/}"\"\> >> $dir/readme.md
 done

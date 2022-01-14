@@ -1,13 +1,13 @@
 
-<img src="assets/Photography/Bill.jpeg">
-<img src="assets/Photography/Dragan.jpeg">
-<img src="assets/Photography/Furniture.jpeg">
-<img src="assets/Photography/How to Prepare for your Photoshoot Corporate.png">
-<img src="assets/Photography/JJ.jpeg">
-<img src="assets/Photography/Karl.jpeg">
-<img src="assets/Photography/Kristine.jpeg">
-<img src="assets/Photography/Rich.jpeg">
-<img src="assets/Photography/Sammy.jpeg">
-<img src="assets/Photography/Stephanie1.jpeg">
-<img src="assets/Photography/Stephanie2.jpg">
-<img src="assets/Photography/readme.md">
+<img src="Bill.jpeg">
+<img src="Dragan.jpeg">
+<img src="Furniture.jpeg">
+<img src="How to Prepare for your Photoshoot Corporate.png">
+<img src="JJ.jpeg">
+<img src="Karl.jpeg">
+<img src="Kristine.jpeg">
+<img src="Rich.jpeg">
+<img src="Sammy.jpeg">
+<img src="Stephanie1.jpeg">
+<img src="Stephanie2.jpg">
+<img src="readme.md">
