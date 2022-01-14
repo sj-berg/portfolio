@@ -1,0 +1,12 @@
+#!/bin/zsh
+
+echo hello world
+
+for dir in assets/*; do
+    echo "$dir"
+    touch "$dir"/hello
+    rm $dir/hello
+    echo "" > $dir/readme.md
+    for f in $dir/*
+        echo "<img src=\""$f\"\> >> $dir/readme.md
+done

@@ -1,39 +1,22 @@
-/3 Flowers Woozy.png
 
-/80s Style.png
-
-/BLM.png
-
-/BNW Flower.png
-
-/Bouquet.png
-
-/Go Forth.png
-
-/Gold Wreath Quote.png
-
-/Journal Page.png
-
-/Leaf Pattern.png
-
-/Maze.png
-
-/Monarch.png
-
-/My Seal.png
-
-/Pink White Frame.png
-
-/Pregnant Woman.png
-
-/Pressed Flowers.png
-
-/Rose Background.png
-
-/Rose in 3D.png
-
-/Stamp Art.png
-
-/Three Flowers.png
-
-/Woman.png
+<img src="assets/My Art/3 Flowers Woozy.png">
+<img src="assets/My Art/80s Style.png">
+<img src="assets/My Art/BLM.png">
+<img src="assets/My Art/BNW Flower.png">
+<img src="assets/My Art/Bouquet.png">
+<img src="assets/My Art/Go Forth.png">
+<img src="assets/My Art/Gold Wreath Quote.png">
+<img src="assets/My Art/Journal Page.png">
+<img src="assets/My Art/Leaf Pattern.png">
+<img src="assets/My Art/Maze.png">
+<img src="assets/My Art/Monarch.png">
+<img src="assets/My Art/My Seal.png">
+<img src="assets/My Art/Pink White Frame.png">
+<img src="assets/My Art/Pregnant Woman.png">
+<img src="assets/My Art/Pressed Flowers.png">
+<img src="assets/My Art/Rose Background.png">
+<img src="assets/My Art/Rose in 3D.png">
+<img src="assets/My Art/Stamp Art.png">
+<img src="assets/My Art/Three Flowers.png">
+<img src="assets/My Art/Woman.png">
+<img src="assets/My Art/readme.md">

@@ -1,54 +1,29 @@
-/Flyer 1.png
 
-/Flyer 2.png
-
-/Gig Sheet Template.png
-
-/How to do a  Cookie Exchange.png
-
-/Social 1.png
-
-/Social 2.png
-
-/Social 3a.png
-
-/Social 3b.png
-
-/Social 3c.png
-
-/1.png
-
-/2.png
-
-/3.png
-
-/4.png
-
-/5.png
-
-/6.png
-
-/7.png
-
-/8.png
-
-/9.png
-
-/10.png
-
-/11.png
-
-/12.png
-
-/13.png
-
-/14.png
-
-/15.png
-
-/16.png
-
-/17.png
-
-/18.png
-
+<img src="assets/Phoenix Swing Project/1.png">
+<img src="assets/Phoenix Swing Project/10.png">
+<img src="assets/Phoenix Swing Project/11.png">
+<img src="assets/Phoenix Swing Project/12.png">
+<img src="assets/Phoenix Swing Project/13.png">
+<img src="assets/Phoenix Swing Project/14.png">
+<img src="assets/Phoenix Swing Project/15.png">
+<img src="assets/Phoenix Swing Project/16.png">
+<img src="assets/Phoenix Swing Project/17.png">
+<img src="assets/Phoenix Swing Project/18.png">
+<img src="assets/Phoenix Swing Project/2.png">
+<img src="assets/Phoenix Swing Project/3.png">
+<img src="assets/Phoenix Swing Project/4.png">
+<img src="assets/Phoenix Swing Project/5.png">
+<img src="assets/Phoenix Swing Project/6.png">
+<img src="assets/Phoenix Swing Project/7.png">
+<img src="assets/Phoenix Swing Project/8.png">
+<img src="assets/Phoenix Swing Project/9.png">
+<img src="assets/Phoenix Swing Project/Flyer 1.png">
+<img src="assets/Phoenix Swing Project/Flyer 2.png">
+<img src="assets/Phoenix Swing Project/Gig Sheet Template.png">
+<img src="assets/Phoenix Swing Project/How to do a  Cookie Exchange.png">
+<img src="assets/Phoenix Swing Project/Social 1.png">
+<img src="assets/Phoenix Swing Project/Social 2.png">
+<img src="assets/Phoenix Swing Project/Social 3a.png">
+<img src="assets/Phoenix Swing Project/Social 3b.png">
+<img src="assets/Phoenix Swing Project/Social 3c.png">
+<img src="assets/Phoenix Swing Project/readme.md">
