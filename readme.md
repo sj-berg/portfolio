@@ -2,7 +2,7 @@
 
 ### Stephanie Paver RD - Contractor and Advisor
 
-![stephanie paver](assets/Paver/Instagram%20Posts%20I%20Designed.png)
+<img src="assets/Paver/Instagram%20Posts%20I%20Designed.png" style="max-width:300px;">
 
 [www.StephaniePaverRD.com](www.StephaniePaverRD.com)
 
@@ -22,15 +22,16 @@ I advertised my classes on campus.
 Business cards I designed for a offshoot company focused on preparing wedding couples for their first dance.
 
 ### Phoenix Swing Project - CEO
+
 [www.PhoenixSwingProject.org](www.PhoenixSwingProject.org)
 
 Using a pre-exisiting logo, I designed a website for the many arms of the project.
-I designed social media posts
+I designed social media posts   
 Internal documents were branded
 Flyers I designed for auditions
 
-
 ### Z Room - Co-Owner
+
 [www.RentTheZRoom.com](www.RentTheZRoom.com)
 
 I have created all internal and external docs for the Z Room.
@@ -39,6 +40,7 @@ Flyers for inside the studio.
 Grand Opening of our second location announcement.
 
 ### Berg & Tapia Photography
+
 [https://www.facebook.com/BergandTapiaPhotography/](https://www.facebook.com/BergandTapiaPhotography/)
 
 My husband and I worked as photographers in the Bay Area and Phoenix. Below are some of my favorite photographs.
