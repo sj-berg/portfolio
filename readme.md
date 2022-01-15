@@ -2,9 +2,12 @@
 
 ### Stephanie Paver RD - Contractor and Advisor
 
-<img src="assets/Paver/Instagram%20Posts%20I%20Designed.png" style="max-width:300px;">
+<img src="assets/Paver/Instagram%20Posts%20I%20Designed.png">
 
 [www.StephaniePaverRD.com](www.StephaniePaverRD.com)
+
+[See Work](./assets/Paver)
+
 
 I designed and made her website.
 
