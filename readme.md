@@ -2,7 +2,7 @@
 
 ### Stephanie Paver RD - Contractor and Advisor
 
-[www.StephaniePaverRD.com](www.StephaniePaverRD.com)
+[www.StephaniePaverRD.com](http://www.StephaniePaverRD.com)
 
 I started working with Stephanie Paver to help her improve her small business. I led her in branding exercises and we discussed her model at length. We took into account her taste and her audience to create a new branding guide and eventually niched down into a specialty in PCOS and Pregnancy.
 
@@ -18,7 +18,7 @@ Throughout my 11 year career I have made my own advertising materials.
 
 ### Phoenix Swing Project - CEO
 
-[www.PhoenixSwingProject.org](www.PhoenixSwingProject.org)
+[www.PhoenixSwingProject.org](https://www.PhoenixSwingProject.org)
 
 Using a pre-exisiting logo, I designed a website for the many arms of the Phoenix Swing Project. I went on to create a branding guide for the organization and to create many internal documents and social media posts.
 
@@ -26,7 +26,7 @@ Using a pre-exisiting logo, I designed a website for the many arms of the Phoeni
 
 ### Z Room - Co-Owner
 
-[www.RentTheZRoom.com](www.RentTheZRoom.com)
+[www.RentTheZRoom.com](https://www.RentTheZRoom.com)
 
 Since we bought the Z Room in 2016 I have created all internal and external documents, branding and marketing.
 
