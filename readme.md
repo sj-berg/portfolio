@@ -12,7 +12,7 @@ Assets I created: social media posts for IG for 1.5 years, website, handouts, ph
 
 ### Stephanie Berg Tango Dancer
 
-Throughout my 11 year career I have made my own advertising materials. 
+Throughout my 11 year career I have made my own advertising materials.
 
 [See sample of materials](./assets/tango).
 
