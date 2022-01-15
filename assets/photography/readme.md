@@ -1,5 +1,7 @@
 
 <img src="Bill.jpeg">
+<img src="Branding Guide Berg & Tapia 01.png">
+<img src="Branding Guide Berg & Tapia 02.png">
 <img src="Dragan.jpeg">
 <img src="Furniture.jpeg">
 <img src="How to Prepare for your Photoshoot Corporate.png">
