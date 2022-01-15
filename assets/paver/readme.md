@@ -4,6 +4,5 @@
 <img src="Instagram Posts I Designed.png">
 <img src="Labs to Request Handout.png">
 <img src="Offer Image.png">
-<img src="Untitled.txt">
 <img src="Website Screenshot.png">
 <img src="readme.md">
